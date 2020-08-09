@@ -8,6 +8,8 @@ permalink: /blog/index.html
 Welcome
 
 // https://www.louisvuitton.cn/zhs-cn/products/pochette-accessoires-monogram-005656
+
+```javascript
 // 添加到购物车
 $("#addToCartSubmit").click();
 
@@ -50,9 +52,6 @@ function setQuy() {
 removeProd();
 setQuy();
 
-
-
-
-
 // 提交
 $("#proceedToCheckoutButtonTop").click();
+```
